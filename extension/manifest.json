@@ -3,13 +3,16 @@
   "name": "TikTok Trim",
   "version": "1.0",
   "description": "Copies a clean TikTok link (no tracking junk) so it opens properly on your phone.",
-  "permissions": ["activeTab", "contextMenus", "scripting", "clipboardWrite"],
-  "host_permissions": ["*://*.tiktok.com/*"],
-  "background": {
-    "service_worker": "background.js"
-  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "*://*.tiktok.com/*"
+  ],
   "action": {
-    "default_title": "Copy clean TikTok link",
+    "default_title": "Clean TikTok link",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "icons/icon16.png",

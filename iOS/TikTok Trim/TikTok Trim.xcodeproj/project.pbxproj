@@ -20,7 +20,6 @@
 		AF397590308A8F7D008557B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF397582308A8F7D008557B2 /* Assets.xcassets */; };
 		AF3975A1308A8F7D008557B2 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = AF39759B308A8F7D008557B2 /* popup.js */; };
 		AF3975A2308A8F7D008557B2 /* trim.js in Resources */ = {isa = PBXBuildFile; fileRef = AF39759C308A8F7D008557B2 /* trim.js */; };
-		AF3975A3308A8F7D008557B2 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = AF39759D308A8F7D008557B2 /* background.js */; };
 		AF3975A4308A8F7D008557B2 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = AF39759E308A8F7D008557B2 /* popup.html */; };
 		AF3975A5308A8F7D008557B2 /* icons in Resources */ = {isa = PBXBuildFile; fileRef = AF39759F308A8F7D008557B2 /* icons */; };
 		AF3975A6308A8F7D008557B2 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = AF3975A0308A8F7D008557B2 /* manifest.json */; };
@@ -67,7 +66,6 @@
 		AF39758F308A8F7D008557B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF39759B308A8F7D008557B2 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.js; path = Resources/popup.js; sourceTree = "<group>"; };
 		AF39759C308A8F7D008557B2 /* trim.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = trim.js; path = Resources/trim.js; sourceTree = "<group>"; };
-		AF39759D308A8F7D008557B2 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = background.js; path = Resources/background.js; sourceTree = "<group>"; };
 		AF39759E308A8F7D008557B2 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = Resources/popup.html; sourceTree = "<group>"; };
 		AF39759F308A8F7D008557B2 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = Resources/icons; sourceTree = "<group>"; };
 		AF3975A0308A8F7D008557B2 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = Resources/manifest.json; sourceTree = "<group>"; };
@@ -149,7 +147,6 @@
 			children = (
 				AF39759B308A8F7D008557B2 /* popup.js */,
 				AF39759C308A8F7D008557B2 /* trim.js */,
-				AF39759D308A8F7D008557B2 /* background.js */,
 				AF39759E308A8F7D008557B2 /* popup.html */,
 				AF39759F308A8F7D008557B2 /* icons */,
 				AF3975A0308A8F7D008557B2 /* manifest.json */,
@@ -259,7 +256,6 @@
 			files = (
 				AF3975A2308A8F7D008557B2 /* trim.js in Resources */,
 				AF3975A4308A8F7D008557B2 /* popup.html in Resources */,
-				AF3975A3308A8F7D008557B2 /* background.js in Resources */,
 				AF3975A5308A8F7D008557B2 /* icons in Resources */,
 				AF3975A6308A8F7D008557B2 /* manifest.json in Resources */,
 				AF3975A1308A8F7D008557B2 /* popup.js in Resources */,
